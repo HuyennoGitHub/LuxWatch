@@ -1,2 +1,2 @@
 # LuxWatch
-You can run with http://localhost:5000
+You can run with https://localhost:5000
